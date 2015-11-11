@@ -1,0 +1,27 @@
+d
+rename jewels.jpg
+move jewels.jpg ~/jewels.jpg
+nano
+rename boat_rideOaOa.jpg
+open_with ncmpcpp
+paste
+rename Battlestar Galacticar
+cp
+copy
+open_with 7z
+open_with gunzip
+my_edit
+ls
+q
+
+shell mkdir nes
+h
+help
+rmdir
+delete all
+open_with 
+rename
+rename GoodNES
+rename GoodSNES2.04.zip.part
+del
+delete
